@@ -1,0 +1,23 @@
+Name,ID,Category,Quantity,Unit of Quantity,Purchase Date,Expired Date,Status,Total Price,Store
+Apple,1001,Food,50,Units,2023-01-10,2025-01-10,Used,100,Main Store
+Banana,1002,Food,100,Units,2023-03-15,2024-03-15,Expired,150,Branch A
+Bread,1004,Food,20,Loaves,2023-05-01,2024-05-01,Expired,100,Branch B
+Cheese,1005,Food,10,Packs,2024-02-25,2026-02-25,Normal,300,Main Store
+Milk,1006,Food,15,Liters,2023-04-22,2025-04-22,Normal,150,Main Store
+Butter,1007,Food,5,Packs,2023-08-30,2024-08-30,Expired,50,Branch A
+Cereal,1008,Food,40,Boxes,2023-11-01,2024-11-01,Expired,240,Branch C
+Orange Juice,1003,Food,30,Bottles,2022-06-12,2023-12-12,Expired,120,Main Store
+Yogurt,1009,Food,25,Units,2023-07-05,2025-07-05,Normal,100,Main Store
+Pasta,1010,Food,15,Boxes,2023-09-10,2024-09-10,Expired,75,Branch B
+Tomato Sauce,1011,Food,10,Jars,2023-12-02,2025-12-02,Normal,50,Branch C
+Peanut Butter,1012,Food,5,Jars,2022-11-20,2023-11-20,Expired,25,Main Store
+Salad,1013,Food,12,Boxes,2023-03-25,2024-03-25,Expired,60,Branch A
+Ice Cream,1014,Food,8,Pints,2024-01-18,2026-01-18,Normal,160,Main Store
+Rice,1015,Food,50,Units,2023-10-13,2024-10-13,Expired,100,Branch B
+Chicken Breast,1016,Food,5,Units,2023-02-05,2025-02-05,Normal,300,Main Store
+Eggs,1017,Food,30,Units,2023-05-16,2024-05-16,Expired,90,Branch C
+Vegetables,1018,Food,20,Bags,2023-12-10,2024-12-10,Expiring soon,40,Main Store
+Fish,1019,Food,10,Units,2023-06-03,2025-06-03,Normal,200,Branch B
+Steak,1020,Food,7,Units,2024-03-01,2025-03-01,Normal,350,Main Store
+Banana,1021,Food,100,Units,2023-03-15,2024-03-15,Expired,150,Branch A
+Banana,1022,Fruits,10,Pounds,2024-12-12,2024-12-15,Normal,100,Costco
